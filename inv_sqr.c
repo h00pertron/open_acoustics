@@ -11,7 +11,7 @@ int main ()
 	int p2 = swl - (20 * log_r) - 8;
 
 	printf("%f\n", log_r);
-	printf("%i\n", p2);
+	printf("L2 = %i\n", p2);
 
 	return 0;
 }
